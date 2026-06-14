@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+.env
+dist/
+build/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+coverage/
+.coverage
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
